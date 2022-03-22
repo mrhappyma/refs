@@ -2,3 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "slate"
+
+[ params ]
+
+OpenLinksInNewWindow = true
