@@ -1,2 +1,2 @@
 run = "hugo"
-entrypoint = "content/posts/hello.md"
+entrypoint = "config.toml"
