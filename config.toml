@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'user.exes referral link collection'
 theme = "slate"
 
 [ params ]
